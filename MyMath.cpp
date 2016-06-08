@@ -6,8 +6,6 @@
 // AUTHORS:     Zoe Cayetano            (zcayetan@asu.edu)
 //
 // COURSE:      CSE100 Principles of Programming with C++, Spring 2016
-//
-// LAB INFO:    Lab 12   Date/Time: 12pm Th   TA: Suya
 //**************************************************************************************************************
 
 #include "MyMath.hpp"
